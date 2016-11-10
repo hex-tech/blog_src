@@ -1,0 +1,5 @@
+*.html
+.Archive
+.sync
+.z_sync_configs.data
+sync_changes.log
